@@ -9,5 +9,7 @@
 #import "MainScene.h"
 
 @implementation MainScene
-
+-(void)push:(id)sender {
+    NSLog(@"pushed");
+}
 @end
