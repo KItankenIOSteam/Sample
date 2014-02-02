@@ -7,7 +7,11 @@
 //
 
 #import "CCNode.h"
+#import "Light.h"
+@interface MainScene : CCNode {
+    Light *light;
+    Light *dark;
+}
 
-@interface MainScene : CCNode
 
 @end

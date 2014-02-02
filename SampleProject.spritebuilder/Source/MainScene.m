@@ -11,5 +11,6 @@
 @implementation MainScene
 -(void)push:(id)sender {
     NSLog(@"pushed");
+    [light dosomething];
 }
 @end
