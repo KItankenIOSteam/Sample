@@ -29,7 +29,7 @@
 	<key>javascriptMainCCB</key>
 	<string>MainScene</string>
 	<key>needRepublish</key>
-	<true/>
+	<false/>
 	<key>onlyPublishCCBs</key>
 	<false/>
 	<key>publishAudioQuality_android</key>
@@ -86,14 +86,14 @@
 		<key></key>
 		<dict>
 			<key>previewFolderHidden</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Sprites</key>
 		<dict/>
 		<key>ccbResources</key>
 		<dict>
 			<key>previewFolderHidden</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>ccbResources/ccbButtonHighlighted.png</key>
 		<dict>
